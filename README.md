@@ -6,7 +6,7 @@ A real-time user behavior analytics pipeline built with **Kafka → Spark → Po
 
 ## ✅ Project Overview
 
-This project demonstrates a real-time user activity analytics system using Apache Kafka, Spark Streaming, PostgreSQL, and Grafana on AWS EC2 instances. The data source is a **React/HTML-based Rock-Paper-Scissors game**, which sends interaction data to Kafka via a Flask server.
+This project demonstrates a real-time user activity analytics system using Apache Kafka, Spark Streaming, PostgreSQL, and Grafana on AWS EC2 instances. The data source is a HTML-based Rock-Paper-Scissors game, which sends interaction data to Kafka via a Flask server.
 
 ---
 
@@ -17,7 +17,7 @@ This project demonstrates a real-time user activity analytics system using Apach
 - **PostgreSQL** – Persistent storage for event logs
 - **Grafana** – Real-time data visualization
 - **Flask** – Kafka producer for sending game events
-- **HTML + TailwindCSS** – Rock-Paper-Scissors UI frontend
+- **HTML** – Rock-Paper-Scissors UI frontend
 - **AWS EC2** – Cloud infrastructure
 
 ---
