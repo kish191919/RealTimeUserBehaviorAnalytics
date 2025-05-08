@@ -2,8 +2,6 @@
 
 A real-time user behavior analytics pipeline built with **Kafka → Spark → PostgreSQL → Grafana**, designed to capture and visualize Rock-Paper-Scissors game interactions from a browser-based UI.
 
-![Pipeline Diagram](docs/pipeline-diagram.png) <!-- (Optional) Replace with actual image path -->
-
 ---
 
 ## ✅ Project Overview
